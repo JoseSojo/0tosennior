@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack-eb989c202b490625.js",
+      "static/chunks/2443530c-607c6266bca82d0f.js",
+      "static/chunks/488-8986c8e24f6e0c60.js",
+      "static/chunks/main-app-19889230f55a96a1.js",
+      "static/chunks/201-43aa2d107b6702be.js",
+      "static/chunks/app/page-c6af21a49e1d8058.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-eb989c202b490625.js",
+      "static/chunks/2443530c-607c6266bca82d0f.js",
+      "static/chunks/488-8986c8e24f6e0c60.js",
+      "static/chunks/main-app-19889230f55a96a1.js",
+      "static/css/9c9e1c5e9c3a081a.css",
+      "static/chunks/app/layout-967f81350c0c14d5.js"
+    ],
+    "/becas/page": [
+      "static/chunks/webpack-eb989c202b490625.js",
+      "static/chunks/2443530c-607c6266bca82d0f.js",
+      "static/chunks/488-8986c8e24f6e0c60.js",
+      "static/chunks/main-app-19889230f55a96a1.js",
+      "static/chunks/201-43aa2d107b6702be.js",
+      "static/chunks/app/becas/page-10222297c3209856.js"
+    ],
+    "/comentario/page": [
+      "static/chunks/webpack-eb989c202b490625.js",
+      "static/chunks/2443530c-607c6266bca82d0f.js",
+      "static/chunks/488-8986c8e24f6e0c60.js",
+      "static/chunks/main-app-19889230f55a96a1.js",
+      "static/chunks/201-43aa2d107b6702be.js",
+      "static/chunks/app/comentario/page-5efc4b01db68f7cf.js"
+    ],
+    "/cursos/page": [
+      "static/chunks/webpack-eb989c202b490625.js",
+      "static/chunks/2443530c-607c6266bca82d0f.js",
+      "static/chunks/488-8986c8e24f6e0c60.js",
+      "static/chunks/main-app-19889230f55a96a1.js",
+      "static/chunks/201-43aa2d107b6702be.js",
+      "static/chunks/app/cursos/page-b88fa06268b8c409.js"
+    ],
+    "/planes/page": [
+      "static/chunks/webpack-eb989c202b490625.js",
+      "static/chunks/2443530c-607c6266bca82d0f.js",
+      "static/chunks/488-8986c8e24f6e0c60.js",
+      "static/chunks/main-app-19889230f55a96a1.js",
+      "static/chunks/201-43aa2d107b6702be.js",
+      "static/chunks/app/planes/page-17c27e5894e91fc2.js"
+    ]
+  }
+}
