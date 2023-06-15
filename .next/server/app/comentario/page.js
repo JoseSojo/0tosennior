@@ -429,7 +429,8 @@ function Comentarios() {
         country: "",
         com: ""
     });
-    let comentss = JSON.parse(localStorage.getItem("comentarios"));
+    let comentss = [];
+    if (false) {}
     const handleChange = (e)=>{
         setCom({
             ...com,
@@ -437,10 +438,8 @@ function Comentarios() {
         });
     };
     const handleSubmit = (e)=>{
-        e.preventDefault();
-        let coments = JSON.parse(localStorage.getItem("comentarios"));
-        coments[coments.length] = com;
-        localStorage.setItem("comentarios", JSON.stringify(coments));
+        // e.preventDefault();
+        if (false) {}
     };
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("main", {
         children: [

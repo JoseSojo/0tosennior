@@ -7,7 +7,10 @@ import {useState, useEffect} from 'react';
 
 export default function Comentarios() {
   const [com, setCom] = useState({name:'',country:'',com:''});
-  let comentss = JSON.parse(localStorage.getItem('comentarios'));
+  let comentss = [];
+  if (typeof window !== 'undefined') {
+	comentss = JSON.parse(localStorage.getItem('comentarios'));
+  }
 
   const handleChange = (e) => {
     setCom({
@@ -17,10 +20,12 @@ export default function Comentarios() {
   }
 
   const handleSubmit = (e) => {
-    e.preventDefault();
-    let coments = JSON.parse(localStorage.getItem('comentarios'));
-    coments[coments.length] = com;
-    localStorage.setItem('comentarios',JSON.stringify(coments));
+    // e.preventDefault();
+	if (typeof window !== 'undefined') {	
+      let coments = JSON.parse(localStorage.getItem('comentarios'));
+      coments[coments.length] = com;
+      localStorage.setItem('comentarios',JSON.stringify(coments));
+  	}
   }
 
   return (
@@ -149,9 +154,9 @@ export default function Comentarios() {
         </form>
       </div>
 
-      <div className="grid grid-cols-3 grid-gap-3 p-3">
-      {
-        comentss.map(item =>
+      <div className="grid grid-cols-3 grid-gap-3 p-3">   
+	  {
+		 comentss.map(item =>
           <section
             className="flex-auto w-64 relative flex items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8"
             href="#"
