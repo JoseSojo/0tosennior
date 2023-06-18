@@ -3,7 +3,6 @@
 import Image from 'next/image';
 import Navbar from '@/components/nav';
 import CardCurso from '@/components/cursoCard';
-import ModalCurso from '@/components/modalCursos';
 
 export default function Cursos() {
 
@@ -81,17 +80,6 @@ export default function Cursos() {
       {
         matriz.map(key =>
           <CardCurso
-            img={key.img}
-            title={key.title}
-            time={key.time}
-            description={key.description}
-            modal={key.modal}
-            />
-        )
-      }
-      {
-        matriz.map(key =>
-          <ModalCurso
             img={key.img}
             title={key.title}
             time={key.time}

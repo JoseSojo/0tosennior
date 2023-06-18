@@ -408,10 +408,28 @@ var next_link = __webpack_require__(1621);
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
 
-
-function Coment({ url , name , country , com  }) {
-    return /*#__PURE__*/ _jsx("div", {
-        children: /*#__PURE__*/ _jsx(Navbar, {})
+function Coment({ name , country , com  }) {
+    return /*#__PURE__*/ jsx_runtime_.jsx("article", {
+        className: "rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm",
+        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+            className: "rounded-[10px] bg-white p-4 !pt-20 sm:p-6",
+            children: [
+                /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                    className: "block text-xs text-gray-500",
+                    children: name
+                }),
+                /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                    className: "block text-xs text-gray-500",
+                    children: country
+                }),
+                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                    children: /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+                        className: "mt-0.5 text-lg font-medium text-gray-900",
+                        children: com
+                    })
+                })
+            ]
+        })
     });
 }
 
@@ -423,24 +441,125 @@ var react_ = __webpack_require__(8038);
 
 
 
-function Comentarios() {
+async function Comentarios() {
     const [com, setCom] = (0,react_.useState)({
         name: "",
         country: "",
         com: ""
     });
-    let comentss = [];
-    if (false) {}
     const handleChange = (e)=>{
         setCom({
             ...com,
             [e.target.name]: e.target.value
         });
     };
-    const handleSubmit = (e)=>{
-        // e.preventDefault();
-        if (false) {}
-    };
+    const comentss = [
+        {
+            name: "Juan Perez",
+            country: "Mexico",
+            com: "Me gusta mucho su contenido"
+        },
+        {
+            name: "Marian Garc\xeda",
+            country: "Spain",
+            com: "La calidad de educac\xf3in no se compara"
+        },
+        {
+            name: "Jose Martinez",
+            country: "Argentina",
+            com: "La plataforma es sencilla y facil de usar"
+        },
+        {
+            name: "Ana Rodr\xeduegz",
+            country: "Colombia",
+            com: "Me gusta su contenido, sigan as\xed"
+        },
+        {
+            name: "Luis hrneandez",
+            country: "Venezuela",
+            com: "Exelenta la calidad de educaci\xf3n"
+        },
+        {
+            name: "Sofia Gonzalez",
+            country: "Chile",
+            com: "El curos de ingles es el mejor"
+        },
+        {
+            name: "Carlos Ramirez",
+            country: "Peru",
+            com: "Los planes son muy econ\xf3micos y es mucha la calidad de \xf3educacin"
+        },
+        {
+            name: "Laura D\xedaz",
+            country: "Ecuador",
+            com: "Sigan con el buen trabajo"
+        },
+        {
+            name: "Roberto Castro",
+            country: "Costa Rica",
+            com: "Saludos desde costa rica"
+        },
+        {
+            name: "Andrea Fernandez",
+            country: "Uruguay",
+            com: "Los mejores"
+        },
+        {
+            name: "Miguel Torres",
+            country: "Panama",
+            com: "Soy de panam\xe1, su contenido es el mejor"
+        },
+        {
+            name: "Paula Sanchez",
+            country: "Bolivia",
+            com: "Saludos desde bolivia"
+        },
+        {
+            name: "David Ortiz",
+            country: "Guatemala",
+            com: "exelene su contenido"
+        },
+        {
+            name: "Valentina Rivera",
+            country: "Honduras",
+            com: "Certificados exelentes!"
+        },
+        {
+            name: "Francisco Ramirez",
+            country: "El Salvador",
+            com: "Sois los mejores"
+        },
+        {
+            name: "Natalia Flores",
+            country: "Nicaragua",
+            com: "Lo Bets"
+        },
+        {
+            name: "Alejandro Castro",
+            country: "Paraguay",
+            com: "Exelente contenido"
+        },
+        {
+            name: "Carmen Jimenez",
+            country: "Dominican Republic",
+            com: "Saludos desde Republica Dominicana"
+        },
+        {
+            name: "Victor Medina",
+            country: "Cuba",
+            com: "Son los mejores"
+        },
+        {
+            name: "Adriana Chavez",
+            country: "Puerto Rico",
+            com: "Sigan s\xeda mantengan sus cursos estandars con la misma calidad de educaci\xf3n"
+        },
+        {
+            name: "Gabriel Torres",
+            country: "Brazil",
+            com: "Desde brazil, saludos"
+        }
+    ];
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("main", {
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx(nav["default"], {}),
@@ -461,13 +580,13 @@ function Comentarios() {
                         ]
                     }),
                     /*#__PURE__*/ (0,jsx_runtime_.jsxs)("form", {
-                        onSubmit: handleSubmit,
+                        action: "/api/coment",
+                        method: "post",
                         className: "mx-auto mb-0 mt-8 max-w-md space-y-4",
                         children: [
                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                 children: [
                                     /*#__PURE__*/ jsx_runtime_.jsx("label", {
-                                        for: "email",
                                         className: "sr-only",
                                         children: "Nombre"
                                     }),
@@ -490,9 +609,9 @@ function Comentarios() {
                                                     viewBox: "0 0 24 24",
                                                     stroke: "currentColor",
                                                     children: /*#__PURE__*/ jsx_runtime_.jsx("path", {
-                                                        "stroke-linecap": "round",
-                                                        "stroke-linejoin": "round",
-                                                        "stroke-width": "2",
+                                                        strokeLinecap: "round",
+                                                        strokeLinejoin: "round",
+                                                        strokeWidth: "2",
                                                         d: "M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
                                                     })
                                                 })
@@ -504,7 +623,6 @@ function Comentarios() {
                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                 children: [
                                     /*#__PURE__*/ jsx_runtime_.jsx("label", {
-                                        for: "password",
                                         className: "sr-only",
                                         children: "Pa\xeds"
                                     }),
@@ -528,15 +646,15 @@ function Comentarios() {
                                                     stroke: "currentColor",
                                                     children: [
                                                         /*#__PURE__*/ jsx_runtime_.jsx("path", {
-                                                            "stroke-linecap": "round",
-                                                            "stroke-linejoin": "round",
-                                                            "stroke-width": "2",
+                                                            strokeLinecap: "round",
+                                                            strokeLinejoin: "round",
+                                                            strokeWidth: "2",
                                                             d: "M15 12a3 3 0 11-6 0 3 3 0 016 0z"
                                                         }),
                                                         /*#__PURE__*/ jsx_runtime_.jsx("path", {
-                                                            "stroke-linecap": "round",
-                                                            "stroke-linejoin": "round",
-                                                            "stroke-width": "2",
+                                                            strokeLinecap: "round",
+                                                            strokeLinejoin: "round",
+                                                            strokeWidth: "2",
                                                             d: "M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
                                                         })
                                                     ]
@@ -549,7 +667,6 @@ function Comentarios() {
                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                                 children: [
                                     /*#__PURE__*/ jsx_runtime_.jsx("label", {
-                                        for: "email",
                                         className: "sr-only",
                                         children: "Comentario"
                                     }),
@@ -572,9 +689,9 @@ function Comentarios() {
                                                     viewBox: "0 0 24 24",
                                                     stroke: "currentColor",
                                                     children: /*#__PURE__*/ jsx_runtime_.jsx("path", {
-                                                        "stroke-linecap": "round",
-                                                        "stroke-linejoin": "round",
-                                                        "stroke-width": "2",
+                                                        strokeLinecap: "round",
+                                                        strokeLinejoin: "round",
+                                                        strokeWidth: "2",
                                                         d: "M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
                                                     })
                                                 })
@@ -598,29 +715,11 @@ function Comentarios() {
                 ]
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                className: "grid grid-cols-3 grid-gap-3 p-3",
-                children: comentss.map((item)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
-                        className: "flex-auto w-64 relative flex items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8",
-                        href: "#",
-                        children: [
-                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                className: "pt-4 text-gray-500",
-                                children: [
-                                    /*#__PURE__*/ jsx_runtime_.jsx("h3", {
-                                        className: "mt-4 text-lg font-bold text-gray-900 sm:text-xl",
-                                        children: item.name
-                                    }),
-                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                        className: "mt-2 hidden text-sm sm:block",
-                                        children: item.com
-                                    })
-                                ]
-                            }),
-                            /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                className: "rounded-full bg-green-100 px-3 py-1.5 text-xs font-medium text-green-600",
-                                children: item.country
-                            })
-                        ]
+                className: "grid grid-cols-4 grid-gap-4 p-4",
+                children: comentss.map((item)=>/*#__PURE__*/ jsx_runtime_.jsx(Coment, {
+                        name: item.name,
+                        country: item.country,
+                        com: item.com
                     }))
             })
         ]

@@ -7,7 +7,6 @@ import {useState} from 'react';
 
 export default async function Comentarios() {
   const [com, setCom] = useState({name:'',country:'',com:''});
-  let comentss = [];
   const handleChange = (e) => {
     setCom({
       ...com,
@@ -15,19 +14,29 @@ export default async function Comentarios() {
     })
   }
 
-  const getingJson = () => {
-	console.log('json');
-    fetch('/api/load')
-	  .then(res => res.json())
-	  .then(json => {
-		console.log(json)
-		//comentss = json
-	  })
-	  .catch(err => {
-		console.error('Solicitud Fallida', err)
-	  });
-  }
-  getingJson();
+  const comentss = [
+    {name:'Juan Perez',country:'Mexico',com:'Me gusta mucho su contenido'},
+	{name:'Marian García',country:'Spain',com:'La calidad de educacóin no se compara'},
+	{name:'Jose Martinez',country:'Argentina',com:'La plataforma es sencilla y facil de usar'},
+	{name:'Ana Rodríuegz',country:'Colombia',com:'Me gusta su contenido, sigan así'},
+	{name:'Luis hrneandez',country:'Venezuela',com:'Exelenta la calidad de educación'},
+	{name:'Sofia Gonzalez',country:'Chile',com:'El curos de ingles es el mejor'},
+	{name:'Carlos Ramirez',country:'Peru',com:'Los planes son muy económicos y es mucha la calidad de óeducacin'},
+	{name:'Laura Díaz',country:'Ecuador',com:'Sigan con el buen trabajo'},
+	{name:'Roberto Castro',country:'Costa Rica',com:'Saludos desde costa rica'},
+	{name:'Andrea Fernandez',country:'Uruguay',com:'Los mejores'},
+	{name:'Miguel Torres',country:'Panama',com:'Soy de panamá, su contenido es el mejor'},
+	{name:'Paula Sanchez',country:'Bolivia',com:'Saludos desde bolivia'},
+	{name:'David Ortiz',country:'Guatemala',com:'exelene su contenido'},
+	{name:'Valentina Rivera',country:'Honduras',com:'Certificados exelentes!'},
+	{name:'Francisco Ramirez',country:'El Salvador',com:'Sois los mejores'},
+	{name:'Natalia Flores',country:'Nicaragua',com:'Lo Bets'},
+	{name:'Alejandro Castro',country:'Paraguay',com:'Exelente contenido'},
+	{name:'Carmen Jimenez',country:'Dominican Republic',com:'Saludos desde Republica Dominicana'},
+	{name:'Victor Medina',country:'Cuba',com:'Son los mejores'},
+	{name:'Adriana Chavez',country:'Puerto Rico',com:'Sigan sía mantengan sus cursos estandars con la misma calidad de educación'},
+	{name:'Gabriel Torres',country:'Brazil',com:'Desde brazil, saludos'},
+  ]
 
   return (
     <main>

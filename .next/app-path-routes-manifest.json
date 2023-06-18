@@ -1,8 +1,10 @@
 {
-  "/favicon.ico/route": "/favicon.ico",
   "/page": "/",
-  "/becas/page": "/becas",
+  "/favicon.ico/route": "/favicon.ico",
   "/comentario/page": "/comentario",
   "/cursos/page": "/cursos",
-  "/planes/page": "/planes"
+  "/planes/page": "/planes",
+  "/becas/page": "/becas",
+  "/api/coment/route": "/api/coment",
+  "/api/load/route": "/api/load"
 }

@@ -380,11 +380,11 @@ __webpack_require__.r(__webpack_exports__);
 /***/ 2853:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3138))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8687))
 
 /***/ }),
 
-/***/ 3138:
+/***/ 8687:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -451,91 +451,8 @@ function CardCurso({ img , title , time , description , modal  }) {
     });
 }
 
-;// CONCATENATED MODULE: ./src/components/modalCursos.js
-/* __next_internal_client_entry_do_not_use__ default auto */ 
-
-function ModalCurso({ img , title , description , time , modal  }) {
-    const matriz = [
-        {
-            img: "/next.svg",
-            title: "Javascript",
-            time: "05/01/2023",
-            description: "Aprende Javascript el lenguaje m\xe1s demandado a nivel mundial con clases interactivar y proyectos incluidos"
-        },
-        {
-            img: "/next.svg",
-            title: "Php",
-            time: "10/01/2023",
-            description: "Aprende Javascript un lenguaje de programaci\xf3n que ah estado por desaparecer pero aun tiene mucho poder y mucho campo laboral"
-        },
-        {
-            img: "/next.svg",
-            title: "Python",
-            time: "15/01/2023",
-            description: "Python desde 0 el lenguaje con la sintaxis m\xe1s simple, muy facil de aprender y con mucho campo laboral. Si quieres crear inteligencia artificial, redes neuronales este es tu momento. Proyectos incluidos"
-        },
-        {
-            img: "/next.svg",
-            title: "Git/Github",
-            time: "20/01/2023",
-            description: "Si vas a trabajar profesionalmente necesitas controlar las versiones de tus proyectos, aqu\xed est\xe1 git para t\xed. Aprende a viajar en el tiempo de tus proyectos"
-        }
-    ];
-    return /*#__PURE__*/ jsx_runtime_.jsx("div", {
-        id: modal,
-        "data-modal-background": "static",
-        tabindex: "-1",
-        "aria-hidden": "true",
-        className: "fixed top-0 left-0 rigth-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 max-h-full",
-        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-            className: "relative w-full max-w-2x1 max-h-full",
-            children: [
-                "// content",
-                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                    className: "relative bg-white rounded-lg shadow ",
-                    children: [
-                        "// Header",
-                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                            className: "flex items-start justify-between p-4 border-b rounded-t",
-                            children: [
-                                /*#__PURE__*/ jsx_runtime_.jsx("h3", {
-                                    className: "text-xl font-semibold text-gray-900",
-                                    children: title
-                                }),
-                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                    className: "font-bold text-gray-700",
-                                    children: time
-                                })
-                            ]
-                        }),
-                        "// Body",
-                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                            className: "p-6 space-y-6",
-                            children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                className: "text-base leading-relaxed text-gray-600",
-                                children: description
-                            })
-                        }),
-                        "// Footer",
-                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                            className: "flex items-center p-6 spance-x-2 border-t border-gray-200 rounded-b",
-                            children: /*#__PURE__*/ jsx_runtime_.jsx("button", {
-                                "data-modal-hide": modal,
-                                className: "text-white bg-purple-700 hover:bg-purple-800 focus:outline-none font-bold rounded-lg text-sm px-5 py-2.5text-center",
-                                type: "button",
-                                children: "Tomar Curso"
-                            })
-                        })
-                    ]
-                })
-            ]
-        })
-    });
-}
-
 ;// CONCATENATED MODULE: ./src/app/cursos/page.js
 /* __next_internal_client_entry_do_not_use__ default auto */ 
-
 
 
 
@@ -608,24 +525,15 @@ function Cursos() {
     return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx(nav["default"], {}),
-            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("section", {
+            /*#__PURE__*/ jsx_runtime_.jsx("section", {
                 className: "grid grid-cols-3 gap-3 p-3",
-                children: [
-                    matriz.map((key)=>/*#__PURE__*/ jsx_runtime_.jsx(CardCurso, {
-                            img: key.img,
-                            title: key.title,
-                            time: key.time,
-                            description: key.description,
-                            modal: key.modal
-                        })),
-                    matriz.map((key)=>/*#__PURE__*/ jsx_runtime_.jsx(ModalCurso, {
-                            img: key.img,
-                            title: key.title,
-                            time: key.time,
-                            description: key.description,
-                            modal: key.modal
-                        }))
-                ]
+                children: matriz.map((key)=>/*#__PURE__*/ jsx_runtime_.jsx(CardCurso, {
+                        img: key.img,
+                        title: key.title,
+                        time: key.time,
+                        description: key.description,
+                        modal: key.modal
+                    }))
             })
         ]
     });

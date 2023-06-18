@@ -371,83 +371,24 @@ __webpack_require__.r(__webpack_exports__);
 /***/ 607:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 1882))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 6317))
 
 /***/ }),
 
-/***/ 1882:
+/***/ 6317:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-// ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
-
-// EXPORTS
-__webpack_require__.d(__webpack_exports__, {
-  "default": () => (/* binding */ Home)
-});
-
-// EXTERNAL MODULE: external "next/dist/compiled/react/jsx-runtime"
-var jsx_runtime_ = __webpack_require__(6786);
-// EXTERNAL MODULE: ./node_modules/next/image.js
-var next_image = __webpack_require__(8421);
-var image_default = /*#__PURE__*/__webpack_require__.n(next_image);
-// EXTERNAL MODULE: ./src/components/nav.js
-var nav = __webpack_require__(4020);
-;// CONCATENATED MODULE: ./src/components/cardDescription.js
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Home)
+/* harmony export */ });
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6786);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8421);
+/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_image__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _components_nav__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4020);
 /* __next_internal_client_entry_do_not_use__ default auto */ 
-
-function CardDescription({ title , description , logo  }) {
-    return /*#__PURE__*/ _jsxs("div", {
-        className: "card-description",
-        children: [
-            /*#__PURE__*/ _jsx("div", {
-                className: "card-description-img flex center-xy",
-                children: /*#__PURE__*/ _jsx(Image, {
-                    src: "/next.svg",
-                    width: 200,
-                    height: 200
-                })
-            }),
-            /*#__PURE__*/ _jsxs("div", {
-                className: "card-description-text",
-                children: [
-                    /*#__PURE__*/ _jsx("h3", {
-                        children: title
-                    }),
-                    /*#__PURE__*/ _jsx("p", {
-                        children: description
-                    })
-                ]
-            })
-        ]
-    });
-}
-
-;// CONCATENATED MODULE: ./src/components/cardDescriptionAll.js
-/* __next_internal_client_entry_do_not_use__ default auto */ 
-
-function CardDescriptionAll({ title , description  }) {
-    return /*#__PURE__*/ _jsx("div", {
-        className: "card-description-all",
-        children: /*#__PURE__*/ _jsxs("div", {
-            className: "card-description-all-text",
-            children: [
-                /*#__PURE__*/ _jsx("h3", {
-                    children: title
-                }),
-                /*#__PURE__*/ _jsx("p", {
-                    children: description
-                })
-            ]
-        })
-    });
-}
-
-;// CONCATENATED MODULE: ./src/app/page.js
-/* __next_internal_client_entry_do_not_use__ default auto */ 
-
-
 
 
 function Home() {
@@ -524,30 +465,30 @@ function Home() {
             img: "/next.svg"
         }
     ];
-    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+    return /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
         children: [
-            /*#__PURE__*/ jsx_runtime_.jsx(nav["default"], {}),
-            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("main", {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_nav__WEBPACK_IMPORTED_MODULE_2__["default"], {}),
+            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("main", {
                 className: "bg-gray-100 py-10",
                 children: [
-                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                         className: "grid grid-cols-2 grid-gap-2 p-2 px-15",
                         children: [
-                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_image__WEBPACK_IMPORTED_MODULE_1___default()), {
                                     src: "/next.svg",
                                     width: 100,
                                     height: 100
                                 })
                             }),
-                            /*#__PURE__*/ jsx_runtime_.jsx("article", {
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("article", {
                                 className: "rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm",
-                                children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                     className: "rounded-[10px] bg-white p-4 !pt-20 sm:p-6",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                             children: [
-                                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h3", {
+                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("h3", {
                                                     className: "mt-0.5 text-lg font-medium text-gray-900 font-large mb-3",
                                                     children: [
                                                         " ",
@@ -555,7 +496,7 @@ function Home() {
                                                         " "
                                                     ]
                                                 }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                                     children: mision.description
                                                 })
                                             ]
@@ -565,17 +506,17 @@ function Home() {
                             })
                         ]
                     }),
-                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                         className: "grid grid-cols-2 grid-gap-2 p-2 px-15",
                         children: [
-                            /*#__PURE__*/ jsx_runtime_.jsx("article", {
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("article", {
                                 className: "rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm",
-                                children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                     className: "rounded-[10px] bg-white p-4 !pt-20 sm:p-6",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                             children: [
-                                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("h3", {
+                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("h3", {
                                                     className: "mt-0.5 text-lg font-medium text-gray-900 font-large mb-3",
                                                     children: [
                                                         " ",
@@ -583,7 +524,7 @@ function Home() {
                                                         " "
                                                     ]
                                                 }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                                     children: vision.description
                                                 })
                                             ]
@@ -591,8 +532,8 @@ function Home() {
                                     })
                                 })
                             }),
-                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_image__WEBPACK_IMPORTED_MODULE_1___default()), {
                                     src: "/next.svg",
                                     width: 100,
                                     height: 100
@@ -600,19 +541,19 @@ function Home() {
                             })
                         ]
                     }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                         className: "grid grid-cols-1 grid-gap-2 p-5 px-15",
-                        children: /*#__PURE__*/ jsx_runtime_.jsx("article", {
+                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("article", {
                             className: "rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm",
-                            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                            children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                 className: "rounded-[10px] bg-white p-4 !pt-20 sm:p-6",
-                                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                     children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                             className: "mt-0.5 text-lg font-medium text-gray-900 font-large mb-3",
                                             children: vision.title
                                         }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                             children: vision.description
                                         })
                                     ]
@@ -620,31 +561,31 @@ function Home() {
                             })
                         })
                     }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("section", {
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("section", {
                         className: "grid grid-cols-6 grid-gap-6 p-6 px-15",
-                        children: valores.map((key)=>/*#__PURE__*/ jsx_runtime_.jsx("article", {
+                        children: valores.map((key)=>/*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("article", {
                                 className: "rounded-xl bg-gradient-to-r my-5 from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm",
-                                children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                     className: "rounded-[10px] bg-white p-4 sm:p-6",
-                                    children: /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+                                    children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                         children: key
                                     })
                                 })
                             }))
                     }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                         className: "grid grid-cols-1 grid-gap-2 p-5 px-15",
-                        children: /*#__PURE__*/ jsx_runtime_.jsx("article", {
+                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("article", {
                             className: "rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm",
-                            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                            children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                 className: "rounded-[10px] bg-white p-4 !pt-20 sm:p-6",
-                                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                     children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                             className: "mt-0.5 text-lg font-medium text-gray-900 font-large mb-3",
                                             children: caso.title
                                         }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                             children: caso.description
                                         })
                                     ]
@@ -652,19 +593,19 @@ function Home() {
                             })
                         })
                     }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                         className: "grid grid-cols-1 grid-gap-2 p-5 px-15",
-                        children: /*#__PURE__*/ jsx_runtime_.jsx("article", {
+                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("article", {
                             className: "rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm",
-                            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                            children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                 className: "rounded-[10px] bg-white p-4 !pt-20 sm:p-6",
-                                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                     children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                             className: "mt-0.5 text-lg font-medium text-gray-900 font-large mb-3",
                                             children: resena.title
                                         }),
-                                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                             children: resena.description
                                         })
                                     ]
@@ -672,29 +613,29 @@ function Home() {
                             })
                         })
                     }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                         className: "grid grid-cols-4 grid-gap-4 p-5 px-15",
-                        children: fundadores.map((key)=>/*#__PURE__*/ jsx_runtime_.jsx("article", {
+                        children: fundadores.map((key)=>/*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("article", {
                                 className: "my-10 rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm",
-                                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                                children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                     className: "rounded-[10px] bg-white p-4 !pt-20 sm:p-6 grid-cols-2 grid-gap-2 px-20",
                                     children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_image__WEBPACK_IMPORTED_MODULE_1___default()), {
                                             src: key.img,
                                             width: 150,
                                             height: 150
                                         }),
-                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                                        /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                             children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx("h5", {
+                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
                                                     className: "mt-0.5 text-lg font-medium text-gray-900 font-large mb-3 text-gray-800",
                                                     children: key.nombre
                                                 }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                     className: "text-gray-600",
                                                     children: key.edad
                                                 }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                                     className: "text-gray-500",
                                                     children: key.cargo
                                                 })

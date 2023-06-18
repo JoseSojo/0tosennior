@@ -2,8 +2,6 @@
 
 import Image from 'next/image';
 import Navbar from '@/components/nav';
-import CardDescription from '@/components/cardDescription';
-import CardDescriptionAll from '@/components/cardDescriptionAll';
 
 export default function Home() {
   const mision = {
