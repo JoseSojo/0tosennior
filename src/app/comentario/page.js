@@ -3,15 +3,11 @@
 import Image from 'next/image';
 import Navbar from '@/components/nav';
 import Coment from '@/components/coment';
-import {useState, useEffect} from 'react';
+import {useState} from 'react';
 
-export default function Comentarios() {
+export default async function Comentarios() {
   const [com, setCom] = useState({name:'',country:'',com:''});
   let comentss = [];
-  if (typeof window !== 'undefined') {
-	comentss = JSON.parse(localStorage.getItem('comentarios'));
-  }
-
   const handleChange = (e) => {
     setCom({
       ...com,
@@ -19,18 +15,22 @@ export default function Comentarios() {
     })
   }
 
-  const handleSubmit = (e) => {
-    // e.preventDefault();
-	if (typeof window !== 'undefined') {	
-      let coments = JSON.parse(localStorage.getItem('comentarios'));
-      coments[coments.length] = com;
-      localStorage.setItem('comentarios',JSON.stringify(coments));
-  	}
+  const getingJson = () => {
+	console.log('json');
+    fetch('/api/load')
+	  .then(res => res.json())
+	  .then(json => {
+		console.log(json)
+		//comentss = json
+	  })
+	  .catch(err => {
+		console.error('Solicitud Fallida', err)
+	  });
   }
+  getingJson();
 
   return (
     <main>
-
       <Navbar />
       <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-lg text-center">
@@ -41,9 +41,13 @@ export default function Comentarios() {
           </p>
         </div>
 
-        <form onSubmit={handleSubmit} className="mx-auto mb-0 mt-8 max-w-md space-y-4">
+        <form
+          action='/api/coment'
+          method='post'
+          className="mx-auto mb-0 mt-8 max-w-md space-y-4"
+          >
           <div>
-            <label for="email" className="sr-only">Nombre</label>
+            <label className="sr-only">Nombre</label>
 
             <div className="relative">
               <input
@@ -63,9 +67,9 @@ export default function Comentarios() {
                   stroke="currentColor"
                 >
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
                   />
                 </svg>
@@ -74,7 +78,7 @@ export default function Comentarios() {
           </div>
 
           <div>
-            <label for="password" className="sr-only">País</label>
+            <label className="sr-only">País</label>
 
             <div className="relative">
               <input
@@ -94,15 +98,15 @@ export default function Comentarios() {
                   stroke="currentColor"
                 >
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
                   />
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
                   />
                 </svg>
@@ -111,7 +115,7 @@ export default function Comentarios() {
           </div>
 
           <div>
-            <label for="email" className="sr-only">Comentario</label>
+            <label className="sr-only">Comentario</label>
 
             <div className="relative">
               <input
@@ -131,9 +135,9 @@ export default function Comentarios() {
                   stroke="currentColor"
                 >
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
                   />
                 </svg>
@@ -150,36 +154,22 @@ export default function Comentarios() {
               />
             </div>
           </div>
-
         </form>
       </div>
 
-      <div className="grid grid-cols-3 grid-gap-3 p-3">   
-	  {
-		 comentss.map(item =>
-          <section
-            className="flex-auto w-64 relative flex items-start justify-between rounded-xl border border-gray-100 p-4 shadow-xl sm:p-6 lg:p-8"
-            href="#"
-          >
-            <div className="pt-4 text-gray-500">
-              <h3 className="mt-4 text-lg font-bold text-gray-900 sm:text-xl">
-                {item.name}
-              </h3>
+	  <div className="grid grid-cols-4 grid-gap-4 p-4">
+		{
+          comentss.map(item =>
+            <Coment
+              name={item.name}
+              country={item.country}
+              com={item.com}
+              />
+          )
+        }
+	  </div>
 
-              <p className="mt-2 hidden text-sm sm:block">
-                {item.com}
-              </p>
-            </div>
-
-            <span
-              className="rounded-full bg-green-100 px-3 py-1.5 text-xs font-medium text-green-600"
-            >
-              {item.country}
-            </span>
-          </section>
-        )
-      }
-      </div>
+      
     </main>
   );
 }
