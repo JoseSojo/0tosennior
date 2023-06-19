@@ -26,37 +26,37 @@ export default function Home() {
       cargo:'Gerente General',
       nombre:'José Sojo',
       edad:'21',
-      img:'/next.svg'
+      img:'/jose.png'
     }, {
       cargo:'Directora de Marketing',
       nombre:'Rossana Rodriguez',
       edad:'21',
-      img:'/next.svg'
+      img:'/rosi.png'
     }, {
       cargo:'Administradora',
       nombre:'Leniangel Pérez',
       edad:'20',
-      img:'/next.svg'
+      img:'/leni.png'
     }, {
       cargo:'Tesorera',
       nombre:'Grecia Colmenares',
       edad:'21',
-      img:'/next.svg'
+      img:'/grecia.png'
     }, {
       cargo:'Community Manager',
       nombre:'Victor Acosta',
       edad:'21',
-      img:'/next.svg'
+      img:'/victro.png'
     }, {
       cargo:'Dessarrollador Frontend',
       nombre:'Rossana Ceballos',
       edad:'22',
-      img:'/next.svg'
+      img:'/rossana.png'
     }, {
       cargo:'Dessarrollador Backend',
       nombre:'Oscar Tirado',
       edad:'21',
-      img:'/next.svg'
+      img:'/oscar.png'
     }
   ]
 
@@ -66,9 +66,9 @@ export default function Home() {
 
       <main className="bg-gray-100 py-10">
         <div className='grid grid-cols-2 grid-gap-2 p-2 px-15'>
-          <div>
+          <div className='flex justify-center aling-items-center'>
             <Image
-              src='/next.svg'
+              src='/logo.png'
               width={100}
               height={100}
               />
@@ -96,9 +96,9 @@ export default function Home() {
               </div>
             </div>
           </article>
-          <div>
+          <div className='flex justify-center aling-items-center'>
             <Image
-              src='/next.svg'
+              src='/logo.png'
               width={100}
               height={100}
               />
