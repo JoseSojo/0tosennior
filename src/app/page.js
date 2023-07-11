@@ -2,6 +2,7 @@
 
 import Image from 'next/image';
 import Navbar from '@/components/nav';
+import Footer from '@/components/footer';
 
 export default function Home() {
   const mision = {
@@ -43,11 +44,6 @@ export default function Home() {
       edad:'21',
       img:'/grecia.png'
     }, {
-      cargo:'Community Manager',
-      nombre:'Victor Acosta',
-      edad:'21',
-      img:'/victro.png'
-    }, {
       cargo:'Dessarrollador Frontend',
       nombre:'Rossana Ceballos',
       edad:'22',
@@ -57,6 +53,11 @@ export default function Home() {
       nombre:'Oscar Tirado',
       edad:'21',
       img:'/oscar.png'
+    }, {
+      cargo:'Community Manager',
+      nombre:'Victor Acosta',
+      edad:'21',
+      img:'/victor.png'
     }
   ]
 
@@ -64,13 +65,13 @@ export default function Home() {
     <div>
       <Navbar />
 
-      <main className="bg-gray-100 py-10">
-        <div className='grid grid-cols-2 grid-gap-2 p-2 px-15'>
-          <div className='flex justify-center aling-items-center'>
+      <main className="bg-gray-100 p-10">
+        <div className='grid grid-cols-2 grid-gap-2 px-15'>
+          <div className='flex justify-center items-center'>
             <Image
               src='/logo.png'
-              width={100}
-              height={100}
+              width={200}
+              height={200}
               />
           </div>
           <article className="rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm">
@@ -85,7 +86,7 @@ export default function Home() {
           </article>
         </div>
 
-        <div className='grid grid-cols-2 grid-gap-2 p-2 px-15'>
+        <div className='grid grid-cols-2 grid-gap-2 px-15'>
           <article className="rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm">
             <div className="rounded-[10px] bg-white p-4 !pt-20 sm:p-6">
               <div>
@@ -96,27 +97,16 @@ export default function Home() {
               </div>
             </div>
           </article>
-          <div className='flex justify-center aling-items-center'>
+          <div className='flex justify-center items-center'>
             <Image
               src='/logo.png'
-              width={100}
-              height={100}
+              width={200}
+              height={200}
               />
           </div>
         </div>
 
-        <div className='grid grid-cols-1 grid-gap-2 p-5 px-15'>
-          <article className="rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm">
-            <div className="rounded-[10px] bg-white p-4 !pt-20 sm:p-6">
-              <p>
-                <h3 className='mt-0.5 text-lg font-medium text-gray-900 font-large mb-3'>{vision.title}</h3>
-                <p>{vision.description}</p>
-              </p>
-            </div>
-          </article>
-        </div>
-
-        <section className='grid grid-cols-6 grid-gap-6 p-6 px-15'>
+        <section className='grid grid-cols-4 grid-gap-6 p-6 px-15'>
           {
             valores.map(key =>
               <article className="rounded-xl bg-gradient-to-r my-5 from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm">
@@ -150,29 +140,32 @@ export default function Home() {
           </article>
         </div>
 
-        <div className='grid grid-cols-4 grid-gap-4 p-5 px-15'>
-
+        <div className='grid grid-cols-2 grid-gap-2 p-5 px-15'>
           {
             fundadores.map(key =>
-              <article className="my-10 rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl transition hover:shadow-sm">
-                <div className="rounded-[10px] bg-white p-4 !pt-20 sm:p-6 grid-cols-2 grid-gap-2 px-20">
-                  <Image
-                    src={key.img}
-                    width={150}
-                    height={150}
-                    />
-                  <p>
+              <article className="rounded-xl bg-gradient-to-r from-purple-300 via-blue-500 to-pink-600 p-0.5 shadow-xl">
+                <div className="grid grid-cols-[.5fr_.5fr] rounded-[10px] bg-white p-4 sm:p-6 px-20">
+                  <div>
+                    <Image
+                      src={key.img}
+                      width={150}
+                      height={200}
+                      className='w-auto h-[200px] mx-auto'
+                      />
+                  </div>
+                  <div>
                     <h5 className='mt-0.5 text-lg font-medium text-gray-900 font-large mb-3 text-gray-800'>{key.nombre}</h5>
-                    <span className='text-gray-600'>{key.edad}</span>
+                    <span className='text-gray-600'> <b>Edad:</b> {key.edad}</span>
                     <p className='text-gray-500'>{key.cargo}</p>
-                  </p>
+                  </div>
                 </div>
               </article>
             )
           }
-
         </div>
       </main>
+
+      <Footer />
     </div>
   );
 }

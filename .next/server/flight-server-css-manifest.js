@@ -1,1 +1,21 @@
-self.__RSC_CSS_MANIFEST={"cssImports":{"/home/demon/Documents/unerg/0tosennior/src/app/layout.js":["/home/demon/Documents/unerg/0tosennior/src/app/globals.css"]},"cssModules":{"/home/demon/Documents/unerg/0tosennior/src/app/page":["/home/demon/Documents/unerg/0tosennior/src/app/globals.css"],"/home/demon/Documents/unerg/0tosennior/src/app/comentario/page":["/home/demon/Documents/unerg/0tosennior/src/app/globals.css"],"/home/demon/Documents/unerg/0tosennior/src/app/cursos/page":["/home/demon/Documents/unerg/0tosennior/src/app/globals.css"],"/home/demon/Documents/unerg/0tosennior/src/app/planes/page":["/home/demon/Documents/unerg/0tosennior/src/app/globals.css"],"/home/demon/Documents/unerg/0tosennior/src/app/becas/page":["/home/demon/Documents/unerg/0tosennior/src/app/globals.css"]}}
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/home/demon/Documents/unerg/0tosennior/src/app/layout.js": [
+      "/home/demon/Documents/unerg/0tosennior/src/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/home/demon/Documents/unerg/0tosennior/src/app/page": [
+      "/home/demon/Documents/unerg/0tosennior/src/app/globals.css"
+    ],
+    "/home/demon/Documents/unerg/0tosennior/src/app/planes/page": [
+      "/home/demon/Documents/unerg/0tosennior/src/app/globals.css"
+    ],
+    "/home/demon/Documents/unerg/0tosennior/src/app/comentario/page": [
+      "/home/demon/Documents/unerg/0tosennior/src/app/globals.css"
+    ],
+    "/home/demon/Documents/unerg/0tosennior/src/app/cursos/page": [
+      "/home/demon/Documents/unerg/0tosennior/src/app/globals.css"
+    ]
+  }
+}

@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import Navbar from '@/components/nav';
 import CardCurso from '@/components/cursoCard';
+import Footer from '@/components/footer';
 
 export default function Cursos() {
 
@@ -89,6 +90,7 @@ export default function Cursos() {
         )
       }
       </section>
+      <Footer />
     </div>
   );
 }

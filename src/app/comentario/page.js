@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import Navbar from '@/components/nav';
 import Coment from '@/components/coment';
+import Footer from '@/components/footer';
 import {useState} from 'react';
 
 export default async function Comentarios() {
@@ -15,7 +16,7 @@ export default async function Comentarios() {
   }
 
   const comentss = [
-    {name:'Juan Perez',country:'Mexico',com:'Me gusta mucho su contenido'},
+  {name:'Juan Perez',country:'Mexico',com:'Me gusta mucho su contenido'},
 	{name:'Marian García',country:'Spain',com:'La calidad de educacóin no se compara'},
 	{name:'Jose Martinez',country:'Argentina',com:'La plataforma es sencilla y facil de usar'},
 	{name:'Ana Rodríuegz',country:'Colombia',com:'Me gusta su contenido, sigan así'},
@@ -178,7 +179,8 @@ export default async function Comentarios() {
         }
 	  </div>
 
-      
+    
+    <Footer />      
     </main>
   );
 }

@@ -14,7 +14,7 @@ export default function Navbar() {
                   Comentarios
               </Link>
               <Link href="/planes" className="inline-flex justify-center hover:text-gray-900 items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
-                  Panes
+                  Planes
               </Link>
               <Link href="/cursos" className="inline-flex justify-center hover:text-gray-900 items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
                   Cursos

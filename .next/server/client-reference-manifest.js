@@ -1,1 +1,1617 @@
-self.__RSC_MANIFEST={"ssrModuleMapping":{"102":{"*":{"id":"4636","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false},"":{"id":"4636","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false},"default":{"id":"4636","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false}},"115":{"*":{"id":"4020","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"":{"id":"4020","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"default":{"id":"4020","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false}},"1010":{"*":{"id":"7844","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"":{"id":"7844","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"default":{"id":"7844","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false}},"1785":{"*":{"id":"606","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"":{"id":"606","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"default":{"id":"606","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"RedirectErrorBoundary":{"id":"606","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"RedirectBoundary":{"id":"606","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false}},"2309":{"*":{"id":"4169","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false},"":{"id":"4169","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false},"default":{"id":"4169","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false}},"4143":{"*":{"id":"3100","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"":{"id":"3100","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"default":{"id":"3100","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false}},"4463":{"*":{"id":"6249","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"":{"id":"6249","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"default":{"id":"6249","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false}},"6576":{"*":{"id":"6317","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","931:static/chunks/app/page-43ff9572f495ab43.js"],"async":false},"":{"id":"6317","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","931:static/chunks/app/page-43ff9572f495ab43.js"],"async":false},"default":{"id":"6317","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","931:static/chunks/app/page-43ff9572f495ab43.js"],"async":false}},"6579":{"*":{"id":"8687","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false},"":{"id":"8687","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false},"default":{"id":"8687","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false}},"6828":{"*":{"id":"969","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"":{"id":"969","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"default":{"id":"969","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false}},"8707":{"*":{"id":"7649","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"":{"id":"7649","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"default":{"id":"7649","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false}},"8827":{"*":{"id":"125","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"":{"id":"125","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"default":{"id":"125","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"getServerActionDispatcher":{"id":"125","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"urlToUrlWithoutFlightMarker":{"id":"125","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false}},"8920":{"*":{"id":"7977","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"":{"id":"7977","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"default":{"id":"7977","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false}},"9126":{"*":{"id":"1522","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"":{"id":"1522","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"default":{"id":"1522","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"ErrorBoundaryHandler":{"id":"1522","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"ErrorBoundary":{"id":"1522","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false}},"9209":{"*":{"id":"9040","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"":{"id":"9040","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"default":{"id":"9040","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"defaultHead":{"id":"9040","name":"defaultHead","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false}}},"edgeSSRModuleMapping":{},"cssFiles":{"/home/demon/Documents/unerg/0tosennior/src/app/layout":["static/css/382262afb85b5ec2.css"]},"clientModules":{"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js":{"id":"8827","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js":{"id":"8827","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js#":{"id":"8827","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js#":{"id":"8827","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js#default":{"id":"8827","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js#default":{"id":"8827","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher":{"id":"8827","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher":{"id":"8827","name":"getServerActionDispatcher","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker":{"id":"8827","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker":{"id":"8827","name":"urlToUrlWithoutFlightMarker","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js":{"id":"9126","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js":{"id":"9126","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js#":{"id":"9126","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js#":{"id":"9126","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js#default":{"id":"9126","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js#default":{"id":"9126","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler":{"id":"9126","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler":{"id":"9126","name":"ErrorBoundaryHandler","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary":{"id":"9126","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary":{"id":"9126","name":"ErrorBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/layout-router.js":{"id":"4463","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/layout-router.js":{"id":"4463","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/layout-router.js#":{"id":"4463","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/layout-router.js#":{"id":"4463","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/layout-router.js#default":{"id":"4463","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/layout-router.js#default":{"id":"4463","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js":{"id":"1785","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js":{"id":"1785","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js#":{"id":"1785","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js#":{"id":"1785","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js#default":{"id":"1785","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js#default":{"id":"1785","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary":{"id":"1785","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary":{"id":"1785","name":"RedirectErrorBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary":{"id":"1785","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary":{"id":"1785","name":"RedirectBoundary","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/render-from-template-context.js":{"id":"1010","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"id":"1010","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/render-from-template-context.js#":{"id":"1010","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/render-from-template-context.js#":{"id":"1010","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/render-from-template-context.js#default":{"id":"1010","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/render-from-template-context.js#default":{"id":"1010","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js":{"id":"6828","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js":{"id":"6828","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#":{"id":"6828","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#":{"id":"6828","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default":{"id":"6828","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default":{"id":"6828","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js":{"id":"4143","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js":{"id":"4143","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#":{"id":"4143","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#":{"id":"4143","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default":{"id":"4143","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default":{"id":"4143","name":"default","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js":{"id":"6406","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js":{"id":"6406","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#":{"id":"6406","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#":{"id":"6406","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates":{"id":"6406","name":"CacheStates","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates":{"id":"6406","name":"CacheStates","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext":{"id":"6406","name":"AppRouterContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext":{"id":"6406","name":"AppRouterContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext":{"id":"6406","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext":{"id":"6406","name":"LayoutRouterContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext":{"id":"6406","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext":{"id":"6406","name":"GlobalLayoutRouterContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext":{"id":"6406","name":"TemplateContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext":{"id":"6406","name":"TemplateContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/hooks-client-context.js":{"id":"1416","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/hooks-client-context.js":{"id":"1416","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/hooks-client-context.js#":{"id":"1416","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#":{"id":"1416","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext":{"id":"1416","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext":{"id":"1416","name":"SearchParamsContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext":{"id":"1416","name":"PathnameContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext":{"id":"1416","name":"PathnameContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/server-inserted-html.js":{"id":"3063","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/server-inserted-html.js":{"id":"3063","name":"*","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/server-inserted-html.js#":{"id":"3063","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#":{"id":"3063","name":"","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext":{"id":"3063","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext":{"id":"3063","name":"ServerInsertedHTMLContext","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML":{"id":"3063","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML":{"id":"3063","name":"useServerInsertedHTML","chunks":["272:static/chunks/webpack-18ac1d10d88db167.js","667:static/chunks/2443530c-607c6266bca82d0f.js","488:static/chunks/488-8986c8e24f6e0c60.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/image.js":{"id":"8707","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/image.js":{"id":"8707","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/image.js#":{"id":"8707","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/image.js#":{"id":"8707","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/image.js#default":{"id":"8707","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/image.js#default":{"id":"8707","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/link.js":{"id":"8920","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/link.js":{"id":"8920","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/link.js#":{"id":"8920","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/link.js#":{"id":"8920","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/link.js#default":{"id":"8920","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/link.js#default":{"id":"8920","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/head.js":{"id":"9209","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/head.js":{"id":"9209","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/head.js#":{"id":"9209","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/head.js#":{"id":"9209","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/head.js#default":{"id":"9209","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/head.js#default":{"id":"9209","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/head.js#defaultHead":{"id":"9209","name":"defaultHead","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/head.js#defaultHead":{"id":"9209","name":"defaultHead","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/page.js":{"id":"6576","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","931:static/chunks/app/page-43ff9572f495ab43.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/page.js#":{"id":"6576","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","931:static/chunks/app/page-43ff9572f495ab43.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/page.js#default":{"id":"6576","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","931:static/chunks/app/page-43ff9572f495ab43.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/nav.js":{"id":"115","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/nav.js#":{"id":"115","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/nav.js#default":{"id":"115","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","256:static/chunks/app/becas/page-5473256bbab8c184.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/globals.css#":{"id":"null","name":"default","chunks":["static/css/382262afb85b5ec2.css"]},"/home/demon/Documents/unerg/0tosennior/src/app/comentario/page.js":{"id":"2309","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/comentario/page.js#":{"id":"2309","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/comentario/page.js#default":{"id":"2309","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/coment.js":{"id":"2309","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/coment.js#":{"id":"2309","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/coment.js#default":{"id":"2309","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","585:static/chunks/app/comentario/page-d1f31454ae82ced9.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/cursos/page.js":{"id":"6579","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/cursos/page.js#":{"id":"6579","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/cursos/page.js#default":{"id":"6579","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/cursoCard.js":{"id":"6579","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/cursoCard.js#":{"id":"6579","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/cursoCard.js#default":{"id":"6579","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","322:static/chunks/app/cursos/page-197ddee0b445a770.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/planes/page.js":{"id":"102","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/planes/page.js#":{"id":"102","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/app/planes/page.js#default":{"id":"102","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/planCard.js":{"id":"102","name":"*","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/planCard.js#":{"id":"102","name":"","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false},"/home/demon/Documents/unerg/0tosennior/src/components/planCard.js#default":{"id":"102","name":"default","chunks":["201:static/chunks/201-818ca8d7a77245c4.js","512:static/chunks/app/planes/page-7311cf571ab615a4.js"],"async":false}}}
+self.__RSC_MANIFEST={
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "getServerActionDispatcher": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "getServerActionDispatcher",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "urlToUrlWithoutFlightMarker": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "urlToUrlWithoutFlightMarker",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundaryHandler": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundaryHandler",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "RedirectErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectErrorBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "RedirectBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/page.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/page.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/page.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/page.js",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/footer.js": {
+      "*": {
+        "id": "(sc_client)/./src/components/footer.js",
+        "name": "*",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/footer.js",
+        "name": "",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/footer.js",
+        "name": "default",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/nav.js": {
+      "*": {
+        "id": "(sc_client)/./src/components/nav.js",
+        "name": "*",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/nav.js",
+        "name": "",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/nav.js",
+        "name": "default",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/planes/page.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/planes/page.js",
+        "name": "*",
+        "chunks": [
+          "app/planes/page:static/chunks/app/planes/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/planes/page.js",
+        "name": "",
+        "chunks": [
+          "app/planes/page:static/chunks/app/planes/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/planes/page.js",
+        "name": "default",
+        "chunks": [
+          "app/planes/page:static/chunks/app/planes/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/planCard.js": {
+      "*": {
+        "id": "(sc_client)/./src/components/planCard.js",
+        "name": "*",
+        "chunks": [
+          "app/planes/page:static/chunks/app/planes/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/planCard.js",
+        "name": "",
+        "chunks": [
+          "app/planes/page:static/chunks/app/planes/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/planCard.js",
+        "name": "default",
+        "chunks": [
+          "app/planes/page:static/chunks/app/planes/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/comentario/page.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/comentario/page.js",
+        "name": "*",
+        "chunks": [
+          "app/comentario/page:static/chunks/app/comentario/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/comentario/page.js",
+        "name": "",
+        "chunks": [
+          "app/comentario/page:static/chunks/app/comentario/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/comentario/page.js",
+        "name": "default",
+        "chunks": [
+          "app/comentario/page:static/chunks/app/comentario/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/coment.js": {
+      "*": {
+        "id": "(sc_client)/./src/components/coment.js",
+        "name": "*",
+        "chunks": [
+          "app/comentario/page:static/chunks/app/comentario/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/coment.js",
+        "name": "",
+        "chunks": [
+          "app/comentario/page:static/chunks/app/comentario/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/coment.js",
+        "name": "default",
+        "chunks": [
+          "app/comentario/page:static/chunks/app/comentario/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/cursos/page.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/cursos/page.js",
+        "name": "*",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/cursos/page.js",
+        "name": "",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/cursos/page.js",
+        "name": "default",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/cursoCard.js": {
+      "*": {
+        "id": "(sc_client)/./src/components/cursoCard.js",
+        "name": "*",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/cursoCard.js",
+        "name": "",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/cursoCard.js",
+        "name": "default",
+        "chunks": [
+          "app/cursos/page:static/chunks/app/cursos/page.js"
+        ],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "cssFiles": {
+    "/home/demon/Documents/unerg/0tosennior/src/app/layout": [
+      "static/css/app/layout.css"
+    ]
+  },
+  "clientModules": {
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/page.js": {
+      "id": "(app-client)/./src/app/page.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/page.js#": {
+      "id": "(app-client)/./src/app/page.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/page.js#default": {
+      "id": "(app-client)/./src/app/page.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/footer.js": {
+      "id": "(app-client)/./src/components/footer.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/footer.js#": {
+      "id": "(app-client)/./src/components/footer.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/footer.js#default": {
+      "id": "(app-client)/./src/components/footer.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/nav.js": {
+      "id": "(app-client)/./src/components/nav.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/nav.js#": {
+      "id": "(app-client)/./src/components/nav.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/nav.js#default": {
+      "id": "(app-client)/./src/components/nav.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/planes/page.js": {
+      "id": "(app-client)/./src/app/planes/page.js",
+      "name": "*",
+      "chunks": [
+        "app/planes/page:static/chunks/app/planes/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/planes/page.js#": {
+      "id": "(app-client)/./src/app/planes/page.js",
+      "name": "",
+      "chunks": [
+        "app/planes/page:static/chunks/app/planes/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/planes/page.js#default": {
+      "id": "(app-client)/./src/app/planes/page.js",
+      "name": "default",
+      "chunks": [
+        "app/planes/page:static/chunks/app/planes/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/planCard.js": {
+      "id": "(app-client)/./src/components/planCard.js",
+      "name": "*",
+      "chunks": [
+        "app/planes/page:static/chunks/app/planes/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/planCard.js#": {
+      "id": "(app-client)/./src/components/planCard.js",
+      "name": "",
+      "chunks": [
+        "app/planes/page:static/chunks/app/planes/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/planCard.js#default": {
+      "id": "(app-client)/./src/components/planCard.js",
+      "name": "default",
+      "chunks": [
+        "app/planes/page:static/chunks/app/planes/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/comentario/page.js": {
+      "id": "(app-client)/./src/app/comentario/page.js",
+      "name": "*",
+      "chunks": [
+        "app/comentario/page:static/chunks/app/comentario/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/comentario/page.js#": {
+      "id": "(app-client)/./src/app/comentario/page.js",
+      "name": "",
+      "chunks": [
+        "app/comentario/page:static/chunks/app/comentario/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/comentario/page.js#default": {
+      "id": "(app-client)/./src/app/comentario/page.js",
+      "name": "default",
+      "chunks": [
+        "app/comentario/page:static/chunks/app/comentario/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/coment.js": {
+      "id": "(app-client)/./src/components/coment.js",
+      "name": "*",
+      "chunks": [
+        "app/comentario/page:static/chunks/app/comentario/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/coment.js#": {
+      "id": "(app-client)/./src/components/coment.js",
+      "name": "",
+      "chunks": [
+        "app/comentario/page:static/chunks/app/comentario/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/coment.js#default": {
+      "id": "(app-client)/./src/components/coment.js",
+      "name": "default",
+      "chunks": [
+        "app/comentario/page:static/chunks/app/comentario/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/cursos/page.js": {
+      "id": "(app-client)/./src/app/cursos/page.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/cursos/page.js#": {
+      "id": "(app-client)/./src/app/cursos/page.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/app/cursos/page.js#default": {
+      "id": "(app-client)/./src/app/cursos/page.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/cursoCard.js": {
+      "id": "(app-client)/./src/components/cursoCard.js",
+      "name": "*",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/cursoCard.js#": {
+      "id": "(app-client)/./src/components/cursoCard.js",
+      "name": "",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    },
+    "/home/demon/Documents/unerg/0tosennior/src/components/cursoCard.js#default": {
+      "id": "(app-client)/./src/components/cursoCard.js",
+      "name": "default",
+      "chunks": [
+        "app/cursos/page:static/chunks/app/cursos/page.js"
+      ],
+      "async": false
+    }
+  }
+}
